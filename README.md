@@ -1,5 +1,5 @@
 Thank you for the Nexxa for this plugin.
-This is a revised version for Android 11 for save image to gallery.
+This is a revised version for Android 11 to save image to gallery.
 
 # :warning: DISCONTINUED - Cordova base64ToGallery Plugin
 This plugin (based on [devgeeks/Canvas2ImagePlugin](http://github.com/devgeeks/Canvas2ImagePlugin)) allows you to save base64 data as a png image into the device (iOS Photo Library, Android Gallery or WindowsPhone 8 Photo Album).
